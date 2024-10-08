@@ -9,5 +9,6 @@ AND I AM TRYING REALLY REALLY HARD.
 ## ONGOING PROJECTS
 
 * ariariariari - version 1.0
-* Menstrual Cycle Simulator
+* Menstrual Cycle Simulator - version 1.01
+* Perfect Espresso
 * Dom Casmurro, Visual Novel
